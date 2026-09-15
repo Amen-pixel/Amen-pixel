@@ -1,20 +1,23 @@
-<p align="center">
-  <samp><b>🚀 Bienvenue sur mon profil GitHub !</b></samp>
-</p>
+# 🚀 Bienvenue sur mon profil GitHub !
 
 <p align="center">
   <img src="https://githubusercontent.com" alt="Illustration Développeur" width="100%" />
 </p>
 
 <h1 align="center">AMEN QUENUM</h1>
+
 <p align="center">
   <b>Ingénieur Logiciel Backend & ML/MLOps Junior</b><br>
-  <i>Étudiant en Génie Logiciel à l'IFRI (UAC) & Spécialisé en Intelligence Artificielle à l'AMA</i>
+  <i>Parcours Génie Logiciel à l'IFRI (UAC) & Spécialisation Intelligence Artificielle à l'AMA</i>
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com"><img src="https://shields.io" alt="LinkedIn" /></a>
-  <a href="mailto:jrquenum@gmail.com"><img src="https://shields.io" alt="Gmail" /></a>
+  <a href="https://linkedin.com">
+    <img src="https://shields.io" alt="LinkedIn" />
+  </a>
+  <a href="mailto:jrquenum@gmail.com">
+    <img src="https://shields.io" alt="Gmail" />
+  </a>
 </p>
 
 ---
@@ -53,10 +56,6 @@
 <p align="center">
   <img src="https://vercel.app" alt="Statistiques de Amen" width="48%" />
   <img src="https://vercel.app" alt="Langages les plus utilisés" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://vercel.app" alt="Trophées GitHub" width="100%" />
 </p>
 
 ---

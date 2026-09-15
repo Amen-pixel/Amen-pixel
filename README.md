@@ -16,25 +16,39 @@
 
 
 📞 WhatsApp : +229 0192212059
-[💼 Mon LinkedIn](https://linkedin.com) | [📧 Mon Gmail](mailto:jrquenum@gmail.com)
+
+[💼 Mon LinkedIn](https://linkedin.com) 
+
+| [📧 Mon Gmail](mailto:jrquenum@gmail.com)
 
 ---
 
 ### 👨‍💻 À propos de moi
 
 class AmenQuenum:
+
     def __init__(self):
+    
         self.name = "AMEN QUENUM"
+        
         self.role = "Software Engineer Student & ML/MLOps Junior"
+        
         self.education = "Génie Logiciel à l'IFRI (UAC) & Spécialisation IA à l'AMA"
+        
         self.location = "Bénin 🇧🇯"
+        
         self.focus = ["Machine Learning", "Vision par Ordinateur", "MLOps", "Backend & Systèmes"]
+        
         self.os = "Linux Ubuntu 🐧"
+        
 
     def __str__(self):
+    
         return f"{self.name} - {self.role}"
+        
 
 me = AmenQuenum()
+
 print(me)
 
 - 🎓 Actuellement étudiant en **Génie Logiciel / Internet et Multimédia** à l'**IFRI** (Université d'Abomey-Calavi).

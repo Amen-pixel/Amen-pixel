@@ -4,21 +4,13 @@
   <img src="https://camo.githubusercontent.com/d972b3fdd96f5bcda3cb22db4be78c78db577b6a4aa58d779523cc1f598f1e8d/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966" alt="Illustration Développeur" width="100%" />
 </p>
 
-<h1 align="center">AMEN QUENUM</h1>
 
-<p align="center">
-  <b>Ingénieur Logiciel Backend & ML/MLOps Junior</b><br>
-  <i>Parcours Génie Logiciel à l'IFRI (UAC) & Spécialisation Intelligence Artificielle à l'AMA</i>
-</p>
 
-<p align="center">
-  <a href="https://linkedin.com">
-    <img src="https://shields.io" alt="LinkedIn" />
-  </a>
-  <a href="mailto:jrquenum@gmail.com">
-    <img src="https://shields.io" alt="Gmail" />
-  </a>
-</p>
+# AMEN QUENUM
+### Ingénieur Logiciel Backend & ML/MLOps Junior
+*Parcours Génie Logiciel à l'IFRI (UAC) & Spécialisation Intelligence Artificielle à l'AMA*
+
+[💼 Mon LinkedIn](https://linkedin.com) | [📧 Mon Gmail](mailto:jrquenum@gmail.com)
 
 ---
 
@@ -53,14 +45,12 @@
 
 ### 📊 Mes Statistiques GitHub
 
-<p align="center">
-  <img src="https://vercel.app" alt="Statistiques de Amen" width="48%" />
-  <img src="https://vercel.app" alt="Langages les plus utilisés" width="48%" />
-</p>
+![Statistiques de Amen](https://vercel.app)
+
+![Langages les plus utilisés](https://vercel.app)
 
 ---
 
-<p align="center">
-  <i>"Comprendre ➔ Réfléchir ➔ Proposer ➔ Construire"</i><br>
-  <b>Connectons-nous pour bâtir l'avenir de la tech ! 🌍</b>
-</p>
+*"Comprendre ➔ Réfléchir ➔ Proposer ➔ Construire"*
+
+**Connectons-nous pour bâtir l'avenir de la tech ! 🌍**

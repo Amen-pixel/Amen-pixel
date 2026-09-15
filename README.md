@@ -7,7 +7,7 @@
 
 
 # AMEN QUENUM
-### Ingénieur Logiciel Backend & ML/MLOps Junior
+### Software Engineer Student & ML/MLOps Junior
 *Parcours Génie Logiciel à l'IFRI (UAC) & Spécialisation Intelligence Artificielle à l'AMA*
 
 [💼 Mon LinkedIn](https://linkedin.com) | [📧 Mon Gmail](mailto:jrquenum@gmail.com)

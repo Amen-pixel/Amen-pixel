@@ -66,9 +66,13 @@ print(me)
 ```
 
 .🎓 Actuellement étudiant en Génie Logiciel / Internet et Multimédia à l'IFRI (Université d'Abomey-Calavi).
+
 .🧠 Boursier spécialisé en Machine Learning & Vision par Ordinateur à l'Académie des Mathématiques Appliquées (AMA).
+
 .🌍 Passionné par la conception d'architectures serveurs performantes et le déploiement en production de pipelines d'IA (MLOps).
+
 .🛠️ Adepte du développement sous environnement Linux Ubuntu et de l'automatisation.
+
 
 🛠️ Boîte à outils technique
 | Catégorie                     | Technologies maîtrisées                                |
@@ -159,10 +163,15 @@ CPU Optimization
 🧠 Domaines d'intérêt
 
 Machine Learning       ████████████████████
+
 Computer Vision        ██████████████████
+
 Backend Development    █████████████████
+
 MLOps                  ████████████████
+
 DevOps                 ██████████████
+
 Software Engineering   ███████████████████
 
 

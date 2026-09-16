@@ -7,8 +7,14 @@
 
 
 # AMEN QUENUM
+
+
 ### Software Engineer Student & ML/MLOps Junior
+
+
 *Parcours Génie Logiciel à l'IFRI (UAC) & Spécialisation Intelligence Artificielle à l'AMA*
+
+
 📬 Get in Touch
 
 
@@ -19,15 +25,15 @@
 
 [💼 Mon LinkedIn](https://linkedin.com) 
 
-| [📧 Mon Gmail](mailto:jrquenum@gmail.com)
+[📧 Mon Gmail](mailto:jrquenum@gmail.com)
 
 ---
 
 ### 👨‍💻 À propos de moi
 
-class AmenQuenum:
+ class AmenQuenum:
 
-    def __init__(self):
+     def __init__(self):
     
         self.name = "AMEN QUENUM"
         
@@ -42,18 +48,21 @@ class AmenQuenum:
         self.os = "Linux Ubuntu 🐧"
         
 
-    def __str__(self):
+     def __str__(self):
     
         return f"{self.name} - {self.role}"
         
 
-me = AmenQuenum()
+  me = AmenQuenum()
 
-print(me)
+   print(me)
 
 - 🎓 Actuellement étudiant en **Génie Logiciel / Internet et Multimédia** à l'**IFRI** (Université d'Abomey-Calavi).
+- 
 - 🧠 Boursier spécialisé en **Machine Learning & Vision par Ordinateur** à l'**Académie des Mathématiques Appliquées (AMA)**.
+- 
 - 🌍 Passionné par la conception d'architectures serveurs performantes et le déploiement en production de pipelines d'IA (*MLOps*).
+- 
 - 🛠️ Adepte du développement sous environnement **Linux Ubuntu** et de l'automatisation.
 
 ---
@@ -87,5 +96,6 @@ print(me)
 ---
 
 *"Comprendre ➔ Réfléchir ➔ Proposer ➔ Construire"*
+
 
 **Connectons-nous pour bâtir l'avenir de la tech ! 🌍**

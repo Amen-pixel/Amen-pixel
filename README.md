@@ -166,17 +166,17 @@ CPU Optimization
 
 🧠 Domaines d'intérêt
 
-Machine Learning       ████████████████████
+Machine Learning         ████████████████████
 
-Computer Vision        ██████████████████
+Computer Vision          ██████████████████
 
-Backend Development    █████████████████
+Backend Development      █████████████████
 
-MLOps                  ████████████████
+MLOps                    ████████████████
 
-DevOps                 ██████████████
+DevOps                   ██████████████
 
-Software Engineering   ███████████████████
+Software Engineering     ███████████████████
 
 
 🐍 Contribution Snake

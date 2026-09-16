@@ -85,8 +85,12 @@ print(me)
 
 
 
-📊 Mes Statistiques GitHub
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Amen-pixel&show_icons=true&include_all_commits=true&count_private=true&rank_icon=percentile&theme=default&hide_border=false" height="180"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amen-pixel&layout=donut&langs_count=6&theme=default&hide_border=false" height="180"/> </p>
+## 📊 Mes Statistiques GitHub
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Amen-pixel&show_icons=true&theme=transparent&hide_border=true&count_private=true&include_all_commits=true" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amen-pixel&layout=compact&theme=transparent&hide_border=true&langs_count=6" width="49%" />
+</p>
 
 
 💻 Langages les plus utilisés

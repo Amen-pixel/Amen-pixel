@@ -65,13 +65,16 @@ print(me)
 
 ```
 
-.🎓 Actuellement étudiant en Génie Logiciel / Internet et Multimédia à l'IFRI (Université d'Abomey-Calavi).
+##.🎓 Actuellement étudiant en Génie Logiciel / Internet et Multimédia à l'IFRI (Université d'Abomey-Calavi).
 
-.🧠 Boursier spécialisé en Machine Learning & Vision par Ordinateur à l'Académie des Mathématiques Appliquées (AMA).
 
-.🌍 Passionné par la conception d'architectures serveurs performantes et le déploiement en production de pipelines d'IA (MLOps).
+##.🧠 Boursier spécialisé en Machine Learning & Vision par Ordinateur à l'Académie des Mathématiques Appliquées (AMA).
 
-.🛠️ Adepte du développement sous environnement Linux Ubuntu et de l'automatisation.
+
+##.🌍 Passionné par la conception d'architectures serveurs performantes et le déploiement en production de pipelines d'IA (MLOps).
+
+
+##.🛠️ Adepte du développement sous environnement Linux Ubuntu et de l'automatisation.
 
 
 🛠️ Boîte à outils technique
@@ -93,20 +96,21 @@ print(me)
 </p>
 
 
-💻 Langages les plus utilisés
+## 💻 Langages les plus utilisés
+
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amen-pixel&layout=donut&langs_count=6&hide_border=false&theme=default" /> </p>
 
 
-🔥 GitHub Streak
+## 🔥 GitHub Streak
 <p align="center"> <img src="https://streak-stats.demolab.com?user=Amen-pixel&theme=default&hide_border=false" /> </p>
 
 
-📈 Activité GitHub
+## 📈 Activité GitHub
 <p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=Amen-pixel&theme=github-compact&hide_border=false" width="100%"/> </p>
 
-🚀 Projets Phares
+## 🚀 Projets Phares
 
-🌐 IFRI MentorLink
+## 🌐 IFRI MentorLink
 
 Plateforme web de mise en relation de mentorat étudiant.
 
@@ -119,7 +123,7 @@ Architecture :
 .Architecture Full-Stack
 .Messagerie en temps réel
 
-🇧🇯 Cotonou-Immo-IA
+## 🇧🇯 Cotonou-Immo-IA
 
 Pipeline Machine Learning pour la prédiction des prix de l'immobilier à Cotonou.
 
@@ -151,7 +155,7 @@ Random Forest
      ▼
 Prix immobilier
 
-🚘 Vidéo-Verbalisation
+## 🚘 Vidéo-Verbalisation
 
 Système de détection et de suivi automatique d'infractions routières.
 
@@ -164,7 +168,7 @@ Computer Vision
 CPU Optimization
 
 
-🧠 Domaines d'intérêt
+## 🧠 Domaines d'intérêt
 
 Machine Learning         ████████████████████
 
@@ -179,17 +183,17 @@ DevOps                   ██████████████
 Software Engineering     ███████████████████
 
 
-🐍 Contribution Snake
+## 🐍 Contribution Snake
 <p align="center"> <img src="https://raw.githubusercontent.com/Amen-pixel/Amen-pixel/output/github-contribution-grid-snake.svg" /> </p>
 
 
-🤝 Connectons-nous
+## 🤝 Connectons-nous
 <p align="center"> <a href="https://github.com/Amen-pixel"> <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/> </a> <a href="https://linkedin.com"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/> </a> <a href="mailto:jrquenum@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/> </a> </p>
 
 <p align="center">
 
-"Comprendre ➔ Réfléchir ➔ Proposer ➔ Construire"
+## "Comprendre ➔ Réfléchir ➔ Proposer ➔ Construire"
 
-🌍 Connectons-nous pour bâtir l'avenir de la tech !
+## 🌍 Connectons-nous pour bâtir l'avenir de la tech !
 </p> ```
 

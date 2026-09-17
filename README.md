@@ -98,7 +98,7 @@ print(me)
 
 ## 💻 Langages les plus utilisés
 
-<p align="center"> <img src="./images/logo-dev.png" width="150" /> </p>
+<p align="center"> <img src="./images/logo-dev.png" width="500" /> </p>
 
 
 ## 🔥 GitHub Streak

@@ -98,7 +98,7 @@ print(me)
 
 ## 💻 Langages les plus utilisés
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amen-pixel&layout=donut&langs_count=6&hide_border=false&theme=default" /> </p>
+<p align="center"> <img src="./images/logo-dev.png" width="150" /> </p>
 
 
 ## 🔥 GitHub Streak

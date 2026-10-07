@@ -103,8 +103,10 @@ print(me)
 
 
 ## 📈 Activité GitHub
-<p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=Amen-pixel&theme=github-compact&hide_border=false" width="100%"/> </p>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Amen-pixel&show_icons=true&theme=dark&hide_border=false" alt="Statistiques GitHub" />
+</p>
 ## 🚀 Projets Phares
 
 ## 🌐 IFRI MentorLink

@@ -164,21 +164,16 @@ ByteTrack
 Computer Vision
 CPU Optimization
 
-
 ## 🧠 Domaines d'intérêt
 
-Machine Learning         ████████████████████
-
-Computer Vision          ██████████████████
-
-Backend Development      █████████████████
-
-MLOps                    ████████████████
-
-DevOps                   ██████████████
-
-Software Engineering     ███████████████████
-
+```text
+Machine Learning        ████████████████████
+Computer Vision         ██████████████████
+Backend Development     █████████████████
+MLOps                   ████████████████
+DevOps                  ██████████████
+Software Engineering    ███████████████████
+```
 
 ## 🐍 Contribution Snake
 <p align="center"> <img src="https://raw.githubusercontent.com/Amen-pixel/Amen-pixel/output/github-contribution-grid-snake.svg" /> </p>

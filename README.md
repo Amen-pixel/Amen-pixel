@@ -107,6 +107,14 @@ print(me)
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Amen-pixel&show_icons=true&theme=dark&hide_border=false" alt="Statistiques GitHub" />
 </p>
+
+
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Amen-pixel&theme=dark" alt="Série de contributions GitHub" />
+</p>
+
+
 ## 🚀 Projets Phares
 
 ## 🌐 IFRI MentorLink

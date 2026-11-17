@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=26&duration=2500&pause=1200&color=36BCF7&center=true&vCenter=true&repeat=true&width=900&height=70&lines=Bienvenue+sur+mon+profil+GitHub+%21;Software+Engineer+Student;ML+%2F+MLOps+Junior;%C3%89tudiant+en+Machine+Learning+%26+Vision+par+Ordinateur;Passionn%C3%A9+de+Backend+%26+MLOps" alt="Bienvenue sur mon profil GitHub - Software Engineer Student - ML/MLOps Junior" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=26&duration=2500&pause=1200&color=36BCF7&center=true&vCenter=true&repeat=true&width=900&height=70&lines=Bienvenue+sur+mon+profil+GitHub+%21;Software+Engineer+Student;ML+%2F+MLOps+Junior;%C3%89tudiant+en+Machine+Learning+%26+Vision+par+Ordinateur;Passionn%C3%A9+de+Backend+%26+MLOps" alt="Bienvenue sur mon profil GitHub - Software Engineer Student - ML/MLOps Engeneer" />
 </p>
 
 <p align="center">

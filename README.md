@@ -81,6 +81,7 @@ print(me)
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="45" alt="python logo"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="45" alt="tensorflow logo"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="45" alt="java logo"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="45" alt="c logo"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="45" alt="cplusplus logo"/>
@@ -121,7 +122,7 @@ print(me)
 | **Langages**                  | `Python` `Java` `C` `C++` `PHP` `SQL` `JavaScript` `Bash` `LaTeX`          |
 | **Bases de données**          | `PostgreSQL` `MySQL`                                                       |
 | **Backend & API**             | `FastAPI` `Flask` `Node.js` `SQLAlchemy`                                   |
-| **Intelligence Artificielle** | `PyTorch` `Scikit-learn` `OpenCV` `YOLOv8` `ByteTrack`                     |
+| **Intelligence Artificielle** | `PyTorch` `Tensorflow` `Scikit-learn` `OpenCV` `YOLOv8` `ByteTrack`                     |
 | **Frontend**                  | `React.js` `Streamlit` `HTML5` `CSS3`                                      |
 | **DevOps & Outils**           | `Linux Ubuntu` `Docker` `Git` `GitHub`                                     |
 

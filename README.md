@@ -80,12 +80,16 @@ print(me)
 ## 🛠️ Tech Stack
 
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="45" alt=""/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="45" alt=""/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="45" alt=""/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="45" alt=""/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="45" alt=""/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg" height="45" alt=""/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="45" alt="python logo"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="45" alt="java logo"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="45" alt="c logo"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="45" alt="cplusplus logo"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="45" alt="php logo"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="45" alt="postgresql logo"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="45" alt="mysql logo"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="45" alt="javascript logo"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="45" alt="bash logo"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg" height="45" alt="latex logo"/>
 </p>
 
 <p align="left">
@@ -110,16 +114,16 @@ print(me)
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="45" alt=""/>
 </p>
 
-🛠️ Boîte à outils technique
-| Catégorie                     | Technologies maîtrisées                                |
-| :---------------------------- | :----------------------------------------------------- |
-| **Langages**                  | `Python` `SQL` `JavaScript` `C` `Bash` `LaTeX`         |
-| **Backend & API**             | `FastAPI` `Flask` `Node.js` `SQLAlchemy`               |
-| **Intelligence Artificielle** | `PyTorch` `Scikit-learn` `OpenCV` `YOLOv8` `ByteTrack` |
-| **Frontend**                  | `React.js` `Streamlit` `HTML5` `CSS3`                  |
-| **DevOps & Outils**           | `Linux Ubuntu` `Docker` `Git` `GitHub`                 |
+## 🛠️ Boîte à outils technique
 
-
+| Catégorie                     | Technologies maîtrisées                                                    |
+| :---------------------------- | :------------------------------------------------------------------------- |
+| **Langages**                  | `Python` `Java` `C` `C++` `PHP` `SQL` `JavaScript` `Bash` `LaTeX`          |
+| **Bases de données**          | `PostgreSQL` `MySQL`                                                       |
+| **Backend & API**             | `FastAPI` `Flask` `Node.js` `SQLAlchemy`                                   |
+| **Intelligence Artificielle** | `PyTorch` `Scikit-learn` `OpenCV` `YOLOv8` `ByteTrack`                     |
+| **Frontend**                  | `React.js` `Streamlit` `HTML5` `CSS3`                                      |
+| **DevOps & Outils**           | `Linux Ubuntu` `Docker` `Git` `GitHub`                                     |
 
 ## 📊 Mes Statistiques GitHub
 

@@ -2,10 +2,11 @@
   <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=34&duration=2500&pause=1200&color=36BCF7&center=true&vCenter=true&repeat=true&width=1200&height=85&lines=Bienvenue+sur+mon+profil+GitHub+%21;Je+m%27appelle+QUENUM+Owolabi+Amen+JR+et+je+suis+...;Software+Engineer+Student;ML+%2F+MLOps+Engineer;%C3%89tudiant+en+Machine+Learning+%26+Vision+par+Ordinateur;Passionn%C3%A9+de+Backend+%26+MLOps" alt="Bienvenue sur mon profil GitHub - QUENUM Amen JR - Software Engineer Student - ML/MLOps Engineer" />
 </p>
 
+
 <p align="center">
   <img
-    src="https://user-images.githubusercontent.com/74038190/212750337-1a2e8f6b-c1cb-4e58-9a2d-99f1ef6d4d52.gif"
-    alt="Developer Animation"
+    src="./amen-pixel-ai.gif"
+    alt="Amen-pixel AI Developer"
     width="100%"
   />
 </p>

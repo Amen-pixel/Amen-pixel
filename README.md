@@ -4,13 +4,11 @@
 
 <p align="center">
   <img
-    src="https://camo.githubusercontent.com/d972b3fdd96f5bcda3cb22db4be78c78db577b6a4aa58d779523cc1f598f1e8d/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966"
-    alt="Illustration Développeur"
+    src="https://user-images.githubusercontent.com/74038190/212750337-1a2e8f6b-c1cb-4e58-9a2d-99f1ef6d4d52.gif"
     width="100%"
+    alt="Animated Developer"
   />
 </p>
-
-
 # AMEN QUENUM
 
 ### Software Engineer Student & ML/MLOps Junior

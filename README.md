@@ -70,7 +70,7 @@ print(me)
 
 ```
 
-## 🎓 Actuellement étudiant en Génie Logiciel / Internet et Multimédia à l'IFRI (Université d'Abomey-Calavi).
+## 🎓 Actuellement étudiant en Génie Logiciel à l'IFRI (Université d'Abomey-Calavi).
 
 
 ## 🧠 Etudiant spécialisé en Machine Learning & Vision par Ordinateur à l'Académie des Mathématiques Appliquées (AMA).

@@ -128,7 +128,7 @@ print(me)
 | :---------------------------- | :------------------------------------------------------------------------- |
 | **Langages**                  | `Python` `Java` `C` `C++` `PHP` `SQL` `JavaScript` `Bash` `LaTeX`          |
 | **Bases de données**          | `PostgreSQL` `MySQL`                                                       |
-| **Backend & API**             | `FastAPI` `Flask` `Node.js` `SQLAlchemy`                                   |
+| **Backend & API**             | `FastAPI` `Flask` `Node.js` `SQLAlchemy` `Lavarel`                                   |
 | **Intelligence Artificielle** | `PyTorch` `Tensorflow` `Scikit-learn` `OpenCV` `YOLOv8` `ByteTrack`                     |
 | **Frontend**                  | `React.js` `Streamlit` `HTML5` `CSS3`                                      |
 | **DevOps & Outils**           | `Linux Ubuntu` `Docker` `Git` `GitHub`                                     |

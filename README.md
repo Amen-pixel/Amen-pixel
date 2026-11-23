@@ -40,6 +40,8 @@
 
 ## 👨‍💻 À propos de moi
 
+https://pin.it/P1q8REgRY
+
 ```python
 class AmenQuenum:
 

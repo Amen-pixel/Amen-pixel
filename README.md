@@ -11,6 +11,13 @@
   />
 </p>
 
+
+<p align="center">
+  <a href="https://amen-pixel.github.io/amen-ai-orb/">
+    <img src="https://img.shields.io/badge/EXPLORE-AMEN_AI_ORB-071b20?style=for-the-badge&logo=three.js&logoColor=20e6df" />
+  </a>
+</p>
+
 # AMEN QUENUM
 
 ### Software Engineer Student & ML/MLOps Junior

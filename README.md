@@ -223,22 +223,22 @@ Pipeline Machine Learning pour la prédiction des prix de l'immobilier à Cotono
 
 Technologies :
 
-Python
+ Python
   │
   ▼  
-Scikit-learn
+ Scikit-learn
   │
   ▼
-Random Forest
+ Random Forest
   │
   ▼
-FastAPI
+ FastAPI
   │
   ▼
-Streamlit
+ Streamlit
   │
   ▼
-Joblib
+ Joblib
 
 Architecture :
 

@@ -239,6 +239,10 @@ Technologies :
   │
   ▼
  Joblib
+  │
+  ▼ 
+ Python
+   
 
 Architecture :
 

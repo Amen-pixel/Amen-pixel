@@ -245,7 +245,7 @@ Système de détection et de suivi automatique d'infractions routières.
 
 Technologies :
 
-YOLOv8
+YOLO26
 PyTorch
 ByteTrack
 Computer Vision

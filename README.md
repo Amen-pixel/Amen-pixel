@@ -293,7 +293,7 @@ Java Swing & Graphics2D
   │
   ▼
 Architecture Desktop Standalone
-  │
+  │ 
   ▼
 Persistance Locale & Sauvegarde ZIP
   │

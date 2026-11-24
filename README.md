@@ -251,6 +251,20 @@ ByteTrack
 Computer Vision
 CPU Optimization
 
+## 💰 Finances Pro
+
+Application de bureau autonome pour la gestion financière par projet et le suivi d'épargne en FCFA.
+
+Architecture :
+
+.Java 21
+.Java Swing & Graphics2D
+.Architecture Desktop Standalone
+.Persistance Locale & Sauvegarde ZIP
+.Verrouillage PIN & Rapports PDF
+.Packaging Natif (jpackage .exe)
+
+
 ## 🧠 Domaines d'intérêt
 
 ```text

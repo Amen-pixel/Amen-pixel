@@ -222,10 +222,7 @@ Messagerie en temps réel
 Pipeline Machine Learning pour la prédiction des prix de l'immobilier à Cotonou.
 
 Technologies :
-
- Python
-  │
-  ▼  
+ 
  Scikit-learn
   │
   ▼

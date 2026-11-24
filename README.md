@@ -200,12 +200,22 @@ Plateforme web de mise en relation de mentorat étudiant.
 
 Architecture :
 
-.Flask
-.MySQL
-.SQLAlchemy
-.Flask-SocketIO
-.Architecture Full-Stack
-.Messagerie en temps réel
+Flask
+  │
+  ▼
+MySQL
+  │
+  ▼
+SQLAlchemy
+  │
+  ▼
+Flask-SocketIO
+  │
+  ▼
+Architecture Full-Stack
+  │
+  ▼
+Messagerie en temps réel
 
 ## 🇧🇯 Cotonou-Immo-IA
 
@@ -214,10 +224,20 @@ Pipeline Machine Learning pour la prédiction des prix de l'immobilier à Cotono
 Technologies :
 
 Python
+  │
+  ▼  
 Scikit-learn
+  │
+  ▼
 Random Forest
+  │
+  ▼
 FastAPI
+  │
+  ▼
 Streamlit
+  │
+  ▼
 Joblib
 
 Architecture :
@@ -246,9 +266,17 @@ Système de détection et de suivi automatique d'infractions routières.
 Technologies :
 
 YOLO26
+  │
+  ▼
 PyTorch
+  │
+  ▼
 ByteTrack
+  │
+  ▼
 Computer Vision
+  │
+  ▼
 CPU Optimization
 
 ## 💰 Finances Pro
@@ -257,12 +285,22 @@ Application de bureau autonome pour la gestion financière par projet et le suiv
 
 Architecture :
 
-.Java 21
-.Java Swing & Graphics2D
-.Architecture Desktop Standalone
-.Persistance Locale & Sauvegarde ZIP
-.Verrouillage PIN & Rapports PDF
-.Packaging Natif (jpackage .exe)
+Java 21
+  │
+  ▼
+Java Swing & Graphics2D
+  │
+  ▼
+Architecture Desktop Standalone
+  │
+  ▼
+Persistance Locale & Sauvegarde ZIP
+  │
+  ▼
+Verrouillage PIN & Rapports PDF
+  │
+  ▼
+Packaging Natif (jpackage .exe)
 
 
 ## 🧠 Domaines d'intérêt

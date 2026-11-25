@@ -1,6 +1,6 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=34&duration=2500&pause=1200&color=36BCF7&center=true&vCenter=true&repeat=true&width=1200&height=85&lines=Bienvenue+sur+mon+profil+GitHub+%21;Je+m%27appelle+QUENUM+Owolabi+Amen+JR+et+je+suis+...;Software+Engineer+Student;ML+%2F+MLOps+Engineer;%C3%89tudiant+en+Machine+Learning+%26+Vision+par+Ordinateur;Passionn%C3%A9+de+Backend+%26+MLOps" alt="Bienvenue sur mon profil GitHub - QUENUM Amen JR - Software Engineer Student - ML/MLOps Engineer" />
-</p>
+</p> 
 
 
 <p align="center">

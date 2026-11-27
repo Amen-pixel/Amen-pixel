@@ -6,7 +6,7 @@
 <p align="center">
   <img
     src="./amen-pixel-ai.gif"
-    alt="Amen-pixel AI Developer"
+    alt="Amen-pixel AI Developer" 
     width="100%"
   />
 </p>
